@@ -48,7 +48,7 @@ export const Banner = () => {
         توصيل سريع خلال ٤٨ ساعة + تخفيض
         <span className="text-[#FEE3BB]"> %50 </span>+ هدية بعد الطلب
       </motion.p>
-    </motion.section> */}
+    </motion.section> new */}
       <img src="greenline.png" alt="greeny" 
         className="w-full h-auto object-cover"
       />
